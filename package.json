@@ -1,7 +1,7 @@
 {
   "name": "com.dreadscripts.copycutpaste",
   "displayName": "DreadScripts - CopyCutPaste",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds 3 much needed buttons to Unity assets: Copy, Cut, and Paste.",
   "gitDependencies": {},
   "vpmDependencies": {},
@@ -12,5 +12,6 @@
   },
   "legacyFolders": {},
   "legacyFiles": {},
-  "type": "tool"
+  "type": "tool",
+  "unity": "2019.4"
 }
